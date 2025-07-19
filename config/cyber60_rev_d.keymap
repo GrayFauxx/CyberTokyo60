@@ -24,7 +24,7 @@
 &kp LEFT_CONTROL  &kp A           &kp S     &kp D      &kp F      &kp G      &kp H   &kp J          &kp K   &kp L      &kp SEMI  &kp SQT    &kp ENTER  &kp RET
 &kp LSHFT         &kp LEFT_SHIFT  &kp Z     &kp X      &kp C      &kp V      &kp B   &kp N          &kp M   &kp COMMA  &kp DOT   &kp FSLH   &kp RSHFT  &sl 3
 &none             &lt 2 LEFT_GUI  &kp LALT  &kp SPACE  &kp SPACE  &kp SPACE  &none   &kp RIGHT_ALT  &tog 1  &none
-&kp C_PP
+&none
             >;
         };
 
@@ -58,7 +58,7 @@
 &trans   &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp C_NEXT       &trans           &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans      &trans   &trans   &trans
 &trans   &trans           &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp PRINTSCREEN  &trans  &trans    &trans    &kp COMMA  &kp PERIOD  &trans   &trans   &trans
 &trans   &trans           &trans           &trans           &kp KP_NUMBER_0  &trans           &trans  &trans    &trans    &trans
-&trans
+&none
             >;
         };
 
@@ -70,7 +70,7 @@
 &trans       &trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans       &trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans       &trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans
+&none
             >;
         };
     };
