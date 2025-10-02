@@ -43,8 +43,8 @@
         fn_layer_2 {
             display-name = "Function 2";
             bindings = <
-&bootloader  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans          &trans           &trans  &trans  &trans
-&trans       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp I   &trans  &trans          &kp UP_ARROW     &trans  &trans
+&bootloader  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans          &trans           &trans  &trans   &trans
+&trans       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp I   &trans  &trans          &kp UP_ARROW     &trans  &kp DEL
 &trans       &trans  &trans  &trans  &trans  &trans  &trans  &kp J   &kp K   &kp L   &kp LEFT_ARROW  &kp RIGHT_ARROW  &trans  &trans
 &trans       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans          &kp DOWN_ARROW   &trans  &trans
 &trans       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
