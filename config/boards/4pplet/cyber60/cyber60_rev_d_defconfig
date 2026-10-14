@@ -44,5 +44,8 @@ CONFIG_UART_INTERRUPT_DRIVEN=y
 CONFIG_UART_LINE_CTRL=y
 
 # Enable sleep, default set to 45 min (defined in ms)
-CONFIG_ZMK_SLEEP=y
+CONFIG_ZMK_SLEEP=n
 CONFIG_ZMK_IDLE_SLEEP_TIMEOUT=2700000
+
+# Disabling bluetooth
+CONFIG_BT=n
